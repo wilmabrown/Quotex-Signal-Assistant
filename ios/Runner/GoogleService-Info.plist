@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   GoogleService-Info.plist
+   Runner
+
+   Created by Егор Федоров on 20.06.2022.
+   Copyright (c) 2022 . All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>712896505350-bn2ak1e75q1o69k8p6iatp4t1vka879r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.712896505350-bn2ak1e75q1o69k8p6iatp4t1vka879r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbC2hdu5D6LinBkpx987aTj1M43w8CQoQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>712896505350</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quotexsig.assistant</string>
+	<key>PROJECT_ID</key>
+	<string>quotex-signal-assistant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quotex-signal-assistant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:712896505350:ios:3639215dfde3d0fd4f0587</string>
+	<key>DATABASE_URL</key>
+	<string>https://quotex-signal-assistant-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
